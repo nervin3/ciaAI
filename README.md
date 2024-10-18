@@ -1,2 +1,0 @@
-# ciaAI
-AI cia
